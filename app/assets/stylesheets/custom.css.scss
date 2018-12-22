@@ -22,7 +22,7 @@ $navbar-default-bg: black;
 }
 
 .jumbotron {
-  background-image: asset-url('virat-kohli.jpg');
+  background-image: asset-url('frog.jpg');
   background-size: cover;
   height: 550px;
 }
@@ -41,7 +41,7 @@ $navbar-default-bg: black;
 }
 
 .btn-xlarge:hover {
-  color: red;
+  background-color: red;
 }
 
 .footer {
